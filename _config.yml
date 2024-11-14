@@ -4,7 +4,7 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 url: https://kojaem-app-policies.github.io
-base_url: DreamStory-Privacy-Policy
+baseurl: DreamStory-Privacy-Policy
 github:
   pdf_url: /assets/downloads/index.pdf
 plugins:
