@@ -3,8 +3,7 @@ description: 꿈을 찾는 우리들의 이야기
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
-url: https://kojaem-app-policies.github.io/DreamStory-Privacy-Policy
 github:
-  pdf_url: /assets/downloads/index.pdf
+  pdf_url: /DreamStory-Privacy-Policy/assets/downloads/index.pdf
 plugins:
   - jekyll-seo-tag
