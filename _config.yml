@@ -4,6 +4,6 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
-  pdf_url: /DreamStory-Privacy-Policy/assets/downloads/privacy_policy_꿈을찾는우리들의이야기
+  pdf_url: /DreamStory-Privacy-Policy/assets/downloads/privacy_policy_꿈을찾는우리들의이야기.pdf
 plugins:
   - jekyll-seo-tag
